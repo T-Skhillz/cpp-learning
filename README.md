@@ -1,32 +1,39 @@
 # 🚀 C++ Learning Journey
 
-Welcome to my C++ practice repository. I'm learning C++ from scratch with the goal of becoming fluent in modern, real-world programming.
+This repository contains my daily practice and mini-projects as I learn and master C++ programming.
 
 ---
 
-## 📅 Progress Tracker
+## 📅 Weekly Progress
 
-| Week | Focus                        | Status  |
-|------|-----------------------------|---------|
-| 1    | Basics & Syntax             | ✅ Done |
-| 2    | Pointers & Functions        | 🔄 In Progress |
-| 3    | OOP + Classes               | ⬜ Not Started |
-| 4    | STL (Vectors, Maps, etc.)   | ⬜ Not Started |
-| 5    | File I/O + Error Handling   | ⬜ Not Started |
-| 6    | Projects + Advanced Topics  | ⬜ Not Started |
+| Week | Topic                        | Status        |
+|------|------------------------------|---------------|
+| 1    | Basics: Syntax, Variables    | [x] Done      |
+| 2    | Pointers & Functions         | [ ] Not done  |
+| 3    | OOP: Classes & Inheritance   | [ ] Not done  |
+| 4    | STL: Vector, Map, etc.       | [ ] Not done  |
+| 5    | File I/O and Error Handling  | [ ] Not done  |
+| 6    | Advanced Topics + Projects   | [ ] Not done  |
 
----
-
-## 🛠️ Project List
-
-- [x] `hello.cpp` - Hello world
-- [ ] `calculator.cpp` - Simple calculator
-- [ ] `student_records.cpp` - Manage student info
-- [ ] `vector_sort.cpp` - Sorting with STL
-- [ ] `oop_bank.cpp` - Bank system using classes
 
 ---
 
-## ✍️ Notes
+## 🧪 Projects
 
-I'll be uploading small projects and exercises as I go. Feedback is welcome!
+| Project Name         | Description                     | Status        |
+|----------------------|----------------------------------|---------------|
+| hello.cpp            | Hello world program              | [x] Done      |
+| calculator.cpp       | Simple calculator using switch   | [ ] Not done  |
+| student_records.cpp  | Manage student records (OOP)     | [ ] Not done  |
+| vector_sort.cpp      | STL sort with vectors            | [ ] Not done  |
+| oop_bank.cpp         | OOP-based banking system         | [ ] Not done  |
+
+
+---
+
+## 📌 Notes
+
+- This repo is meant to track my learning progress and practice projects.
+- I'll keep updating this README as I complete each topic and project.
+
+---

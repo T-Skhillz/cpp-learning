@@ -23,7 +23,7 @@ This repository contains my daily practice and mini-projects as I learn and mast
 | Project Name         | Description                      | Status        |
 |----------------------|----------------------------------|---------------|
 | hello.cpp            | Hello world program              | [x] Done      |
-| calculator.cpp       | Simple calculator                | [x] Not done  |
+| calculator.cpp       | Simple calculator                | [x] Done      |
 | student_records.cpp  | Manage student records (OOP)     | [ ] Not done  |
 | vector_sort.cpp      | STL sort with vectors            | [ ] Not done  |
 | oop_bank.cpp         | OOP-based banking system         | [ ] Not done  |

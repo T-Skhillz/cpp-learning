@@ -20,10 +20,10 @@ This repository contains my daily practice and mini-projects as I learn and mast
 
 ## 🧪 Projects
 
-| Project Name         | Description                     | Status        |
+| Project Name         | Description                      | Status        |
 |----------------------|----------------------------------|---------------|
 | hello.cpp            | Hello world program              | [x] Done      |
-| calculator.cpp       | Simple calculator using switch   | [ ] Not done  |
+| calculator.cpp       | Simple calculator                | [x] Not done  |
 | student_records.cpp  | Manage student records (OOP)     | [ ] Not done  |
 | vector_sort.cpp      | STL sort with vectors            | [ ] Not done  |
 | oop_bank.cpp         | OOP-based banking system         | [ ] Not done  |
